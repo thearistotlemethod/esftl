@@ -1,4 +1,5 @@
-# esFtl Flash Translation Layer Project
+# esFtl
+FTL(Flash Translation Layer) for low-memory embedded systems
 
 ## Introduction
 Welcome to the esFtl Flash Translation Layer project! This software is designed to manage and optimize data storage on flash-based embedded devices with capacities of up to 128 MB. FTL is a critical component of modern flash storage systems, ensuring efficient data management, wear leveling, and performance optimization.
