@@ -64,6 +64,7 @@ void esFtl_Defrag(void)
         {
             if (esFtl_IsBadBlock(i))
             {
+				i++;
                 continue;
             }
 
